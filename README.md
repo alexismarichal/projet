@@ -1,3 +1,5 @@
+PROJET "Héros"
+
 Chaque personne possède un nombre limité d’heures de vie. Quand ces heures disparaissent, la personne meurt. Le monde prendra bientôt fin.
 Un train parcourt le monde. IL se dirige vers un endoit où le monde peut être sauvé. La survie de l’humanité dépend des personnes qui se trouvent dans le train
 à la fin du voyage.Le héros de l’histoire est le Sélectionneur. Il peut voir le nombres d'heures restant des personnes. Il peut en prendre et en donner à qui il veut. À chaque arrêt, il doit choisir
